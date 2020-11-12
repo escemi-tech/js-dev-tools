@@ -91,5 +91,3 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 This project is [MIT](LICENSE) licensed.
-
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
